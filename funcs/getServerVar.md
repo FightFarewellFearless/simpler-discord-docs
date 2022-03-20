@@ -1,5 +1,7 @@
 # $getServerVar
-get server var for provided id and name
+Gets the variable "name" for the server with id: "id"
+
+
 ## usage:
 ```js
 $getServerVar[name;id (optional)]
