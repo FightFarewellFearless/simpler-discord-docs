@@ -9,5 +9,5 @@ $createEmbed[title;author;description;color;thumbnail;timestamp;footer;url;field
 All options can be optional depends on how you use it
 ## example: 
 ```js
-$send[content;no;$createEmbed[hi;author name;this is embed;GREEN]]
+$send[$channelId[];content;no;$createEmbed[hi;author name;this is embed;GREEN]]
 ```
