@@ -7,3 +7,9 @@
 
 ## Callbacks
 * [onMessage](callbacks/onMessage.md)
+
+## Functions
+* [$authorAvatar](funcs/authorAvatar.md)
+* [$authorID](funcs/authorID.md)
+* [$channelID](funcs/channelID.md)
+* [$createEmbed](funcs/createEmbed.md)
