@@ -1,9 +1,10 @@
 # $authorID
-usage:
+return author id of this message
+## usage:
 ```js
 $authorID[]
 ```
-example:
+## example:
 ```js
 $authorID[]
 ```
