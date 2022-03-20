@@ -13,3 +13,8 @@ code: `Pong: $ping[]ms` //will return ping
 })
 bot.login("token")
 ```
+⚠️ Information:
+
+you need [] for every functions to get execute even there's no params needed
+### functions
+for functions list, check in functions category
