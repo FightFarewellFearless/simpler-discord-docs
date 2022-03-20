@@ -5,4 +5,4 @@
 npm i https://github.com/Bumblebee-3/simpler-discord
 ```
 
-ithis jsthtit
+this will install the github version
