@@ -1,5 +1,6 @@
 # $getChannelVar
-get channel var for provided id and name
+Gets the variable "name" for the channel with id: "id"
+
 ## usage:
 ```js
 $getChannelVar[name;id (optional)]
