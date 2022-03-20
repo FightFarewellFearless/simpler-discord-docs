@@ -1,10 +1,10 @@
 # $getUserVar
-get user var for provided id and name
+Gets the variable "name" for the user with id: "id"
 ## usage:
 ```js
-$getServerVar[name;id (optional)]
+$getUserVar[name;id (optional)]
 ```
 ## example: 
 ```js
-$getServerVar[name;$authorID[]]
+$getUserVar[name;$authorID[]]
 ```
