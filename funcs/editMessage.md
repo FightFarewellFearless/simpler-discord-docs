@@ -6,5 +6,5 @@ $editMessage[messageID;content;embed(optional);channelID(optional)]
 ```
 ## example: 
 ```js
-$editMessage[$send[$channelID;hello;yes];hello world;$createEmbed[hi;hello;world]]
+$editMessage[$send[$channelID[];hello;yes];hello world;$createEmbed[hi;hello;world]]
 ```
