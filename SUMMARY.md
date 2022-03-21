@@ -13,6 +13,7 @@
 * [$authorID](funcs/authorID.md)
 * [$channelID](funcs/channelID.md)
 * [$createEmbed](funcs/createEmbed.md)
+* [$editMessage](funcs/editMessage.md)
 * [$getChannelVar](funcs/getChannelVar.md)
 * [$getServerVar](funcs/getServerVar.md)
 * [$getUserVar](funcs/getUserVar.md)
