@@ -10,5 +10,5 @@ $if[condition;when true;when false]
 ```
 ## example:
 ```js
-$send[$channelId[];$if["$message[1]" == "hi";your first args is hi;your first args isn't hi]]
+$send[$channelId[];$if[$message[1]==hi;your first args is hi;your first args isn't hi]]
 ```
