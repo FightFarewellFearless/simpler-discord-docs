@@ -1,3 +1,5 @@
 # $getUserVar
-# Usage: [name;id(optional)]
-# Description: get user var with provided name and id
+## Usage:
+ [name;id(optional)]
+## Description:
+ get user var with provided name and id

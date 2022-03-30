@@ -1,3 +1,5 @@
 # $escape
-# Usage: [text]
-# Description: return text to escaping characters
+## Usage:
+ [text]
+## Description:
+ return text to escaping characters

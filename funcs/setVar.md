@@ -1,3 +1,5 @@
 # $setVar
-# Usage: [name]
-# Description: set var with provided name
+## Usage:
+ [name]
+## Description:
+ set var with provided name

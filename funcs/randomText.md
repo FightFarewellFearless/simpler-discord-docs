@@ -1,3 +1,5 @@
 # $randomText
-# Usage: [text;text;text;....]
-# Description: random the provided text
+## Usage:
+ [text;text;text;....]
+## Description:
+ random the provided text

@@ -1,3 +1,5 @@
 # $uptime
-# Usage: []
-# Description: return bot uptime
+## Usage:
+ []
+## Description:
+ return bot uptime

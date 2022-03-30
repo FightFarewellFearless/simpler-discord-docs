@@ -1,3 +1,5 @@
 # $channelId
-# Usage: []
-# Description: return current channel id
+## Usage:
+ []
+## Description:
+ return current channel id

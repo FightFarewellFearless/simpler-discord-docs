@@ -1,3 +1,5 @@
 # $pingDb
-# Usage: []
-# Description: return database ping
+## Usage:
+ []
+## Description:
+ return database ping

@@ -1,3 +1,5 @@
 # $getVar
-# Usage: [name]
-# Description: get var with provided name
+## Usage:
+ [name]
+## Description:
+ get var with provided name
