@@ -46,4 +46,5 @@
 * [$setVar](funcs/setVar.md)
 * [$unEscape](funcs/unEscape.md)
 * [$uptime](funcs/uptime.md)
+* [$userTag](funcs/userTag.md)
 * [$username](funcs/username.md)
