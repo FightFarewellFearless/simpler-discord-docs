@@ -4,6 +4,8 @@
 ## Description:
  make cooldown for author id in this guild use {getTime} to get the time
 
-Example: ```js
+Example: 
+```js
 $send[$channelId[];hi]
-$cooldown[3000;don't spam, wait for {getTime}]```
+$cooldown[3000;don't spam, wait for {getTime}]
+```

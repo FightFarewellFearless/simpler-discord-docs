@@ -4,5 +4,7 @@
 ## Description:
  eval the function provided in text part
 
-Example: ```js
-$send[$channelId[];$functionEval[$message[]]]```
+Example: 
+```js
+$send[$channelId[];$functionEval[$message[]]]
+```

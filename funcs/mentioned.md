@@ -4,5 +4,7 @@
 ## Description:
  return mention user in mention number
 
-Example: ```js
-$mentioned[1]```
+Example: 
+```js
+$mentioned[1]
+```

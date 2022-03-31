@@ -4,5 +4,7 @@
 ## Description:
  create json object for embed $send (all part r optional depends on how u use it)
 
-Example: ```js
-$send[$channelId[];hi;;$createEmbed[hello;;hi;RED]]```
+Example: 
+```js
+$send[$channelId[];hi;;$createEmbed[hello;;hi;RED]]
+```

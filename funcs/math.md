@@ -4,5 +4,7 @@
 ## Description:
  count the provided number
 
-Example: ```js
-$math[1+(3*3)]```
+Example: 
+```js
+$math[1+(3*3)]
+```
