@@ -25,6 +25,12 @@ and many more...
 
 `{thumbnail:url}` to set a thumbnail
 
+`{field:name:value:inline (yes/no) (optional)}` to set field
+
+`{image:url}` to set image
+
+`{footer:text:url (optional)}` to set footer
+
 ## Example
 ```js
 $send[$channelId[];hello {createEmbed:{description:world}}]
