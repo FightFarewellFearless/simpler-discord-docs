@@ -4,6 +4,7 @@
 
 ## Docs
 * [How to setup?](Docs/howToUse.md)
+* [Embed parser](Docs/embedParser.md)
 
 ## Callbacks
 * [onMessage](callbacks/onMessage.md)
