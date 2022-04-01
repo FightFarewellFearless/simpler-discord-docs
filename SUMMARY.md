@@ -9,7 +9,7 @@
 ## Callbacks
 * [onMessage](callbacks/onMessage.md)
 * [onMemberJoin](callbacks/onMemberJoin.md)
-* [onMemberLeave](callbakcs/onMemberLeave.md)
+* [onMemberLeave](callbacks/onMemberLeave.md)
 
 ## Functions
 * [$authorAvatar](funcs/authorAvatar.md)
