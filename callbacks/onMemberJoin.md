@@ -9,4 +9,5 @@ callbacks that trigger memberJoinCommand when someone join server
 <bot>.memberJoinCommand({
 channel: "id", //channel id to log a message when someone join server, you can use $getServerVar too
 code: `code`
-})```
+})
+```
