@@ -15,7 +15,6 @@
 * [$authorId](funcs/authorId.md)
 * [$channelId](funcs/channelId.md)
 * [$cooldown](funcs/cooldown.md)
-* [$createEmbed](funcs/createEmbed.md)
 * [$editMessage](funcs/editMessage.md)
 * [$escape](funcs/escape.md)
 * [$functionEval](funcs/functionEval.md)
