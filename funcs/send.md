@@ -1,5 +1,5 @@
 # $send
 ## Usage:
- [channel id;message (optional when embed provided);return id(yes/no)(optional);embeds(optional)]
+ [channel id;message;return id(yes/no)(optional)]
 ## Description:
  send message in provided channel id
