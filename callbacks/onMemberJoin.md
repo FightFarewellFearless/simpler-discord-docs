@@ -1,10 +1,17 @@
+---
+description: callbacks that trigger memberJoinCommand when someone join server
+---
+
 # onMemberJoin
-callbacks that trigger memberJoinCommand when someone join server
-## Usage: 
+
+## Usage:
+
 ```js
 <bot>.onMemberJoin()
 ```
+
 ## Command
+
 ```js
 <bot>.memberJoinCommand({
 channel: "id", //channel id to log a message when someone join server, you can use $getServerVar too
