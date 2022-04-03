@@ -1,16 +1,21 @@
-# Embed Parser
-embed parser is use to send embeds in function
+---
+description: embed parser is use to send embeds in function
+---
 
-## Functions support
--> $send
+# Embed parser
 
--> $cooldown
+### Functions support
 
--> $onlyIf
+\-> $send
+
+\-> $cooldown
+
+\-> $onlyIf
 
 and many more...
 
-# Embeds parser
+## Embeds parser
+
 `{createEmbed:}` to create a new embed
 
 `{title:text:url (optional)}` to set a title
@@ -31,7 +36,8 @@ and many more...
 
 `{footer:text:url (optional)}` to set footer
 
-## Example
+### Example
+
 ```js
 $send[$channelId[];hello {createEmbed:{description:world}}]
 ```
