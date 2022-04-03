@@ -1,6 +1,8 @@
-# onMessage
+---
+description: trigger command when message sended
+---
 
-trigger command when message sended
+# onMessage
 
 ## Usage:
 
