@@ -1,5 +1,14 @@
+---
+description: return text to escaping characters
+---
+
 # $escape
+
 ## Usage:
- [text]
-## Description:
- return text to escaping characters
+
+\[text]
+
+## Example:
+
+```
+```

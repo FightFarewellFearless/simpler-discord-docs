@@ -1,5 +1,28 @@
+---
+description: return current channel id
+---
+
 # $channelId
+
 ## Usage:
- []
-## Description:
- return current channel id
+
+\[]
+
+## Example:
+
+```
+$channelId[]
+```
+
+```
+$send[$channelId[];$channelId[]]
+```
+
+## Example Command:
+
+```javascript
+bot.command({
+    name: "channelid",
+    code: `$send[$channelId[];$channelId[]]`
+})
+```

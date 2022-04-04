@@ -1,5 +1,28 @@
+---
+description: return author id
+---
+
 # $authorId
+
 ## Usage:
- []
-## Description:
- return author id
+
+\[]
+
+## Example:
+
+```
+$authorId[]
+```
+
+```
+$send[$channelId[];$authorId[]]
+```
+
+## Example Command:
+
+```javascript
+bot.command({
+    name: "myid",
+    code: `$send[$channelId[];$authorId[]]`
+})
+```
