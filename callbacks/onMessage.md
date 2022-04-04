@@ -12,12 +12,18 @@ description: trigger command when message sended
 
 ## Command
 
-```js
+```javascript
 <bot>.command({
 name: "name", //command name
 code: `code`
 ```
-
+or, u can also use "$always" to make command get trigger every time message sended
+```javascript
+ <bot>.command({
+name: "$always",
+code: `code`
+```
+```
 ### Example:
 
 ```js
