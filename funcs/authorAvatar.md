@@ -21,3 +21,12 @@ $authorAvatar[2048;no;png]
 ```
 $send[$channelId[];$authorAvatar[]]
 ```
+
+## Example Command:
+
+```javascript
+bot.command({
+    name: "myavatar",
+    code: `$send[$channelId[];$authorAvatar[]]`
+})
+```

@@ -1,5 +1,30 @@
+---
+description: return the value from $let
+---
+
 # $get
+
 ## Usage:
- [name]
-## Description:
- return the value from $let
+
+\[name]
+
+## Example:
+
+```
+$get[Foo]
+$let[Foo;Bar]
+```
+
+## Example Command:
+
+```javascript
+bot.command({
+    name: "foo",
+    code: `$send[$channelId[];$get[Foo]]
+    $let[Foo;Bar]`
+})
+```
+
+### Output:
+
+![](../.gitbook/assets/gambar.png)
