@@ -23,6 +23,6 @@ $httpRequest[https://useless-facts.sameerkumar.website/api;data;GET]
 ```javascript
 bot.command({
     name: "fact",
-    code: `$send[$channelId[];$httpRequest[https://useless-facts.sameerkumar.website/api;data;GET]]
-    
+    code: `$send[$channelId[];$httpRequest[https://useless-facts.sameerkumar.website/api;data;GET]]`
+})
 ```
