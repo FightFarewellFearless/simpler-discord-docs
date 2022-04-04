@@ -23,7 +23,6 @@ or, u can also use "$always" to make command get trigger every time message send
 name: "$always",
 code: `code`
 ```
-```
 ### Example:
 
 ```js
