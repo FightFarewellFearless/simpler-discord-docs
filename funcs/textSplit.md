@@ -1,6 +1,6 @@
---
+---
 description: sperate provided text from the given 'split by'
---
+---
 
 # $textSplit
 ## Usage:
