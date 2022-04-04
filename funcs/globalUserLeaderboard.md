@@ -2,7 +2,7 @@
 description: create leaderboard for global users 
 ---
 
-# $userLeaderboard
+# $globalUserLeaderboard
 Available keyword for text: `{position}` to get user position at the leaderboard
 
 `{name}` user name
