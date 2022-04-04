@@ -48,6 +48,8 @@
 * [$setServerVar](funcs/setServerVar.md)
 * [$setUserVar](funcs/setUserVar.md)
 * [$setVar](funcs/setVar.md)
+* [$splitText](funcs/splitText.md)
+* [$textSplit](funcs/textSplit.md)
 * [$unEscape](funcs/unEscape.md)
 * [$userLeaderboard](funcs/userLeaderboard.md)
 * [$uptime](funcs/uptime.md)
