@@ -2,7 +2,7 @@
 description: create leaderboard for server var.
 ---
 
-# $userLeaderboard
+# serverLeaderboard
 Available keyword for text: `{position}` to get server position at the leaderboard
 
 `{name}` server name
